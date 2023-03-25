@@ -2,6 +2,8 @@
 
 This is a simple web application that generates a random password based on the user's selected criteria.
 
+## project is Live [here](https://zeeshanmukhtar1.github.io/PassShake/)
+
 ## Usage
 
 - Move the slider to set the desired length of the password.
